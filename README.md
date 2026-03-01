@@ -31,7 +31,8 @@ CrowdShield is an AI-powered metro station management system designed to reduce 
 ---
 
 ##  System Architecture
-![Architecture](architecture/architecture_diagram.png)
+![Architecture]<img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/08977b1c-d302-48e6-ba74-5e71660cadb6" />
+
 
 ---
 
@@ -63,3 +64,18 @@ Video available in `https://app.animaker.com/animo/BXyqCOcS6TAPgiSu/`
 
 ## 🛠 Setup Instructions
 ### 1. Install Dependencies
+
+### 2. Run Edge Inference
+
+### 4. Launch Frontend Dashboard  
+Open `dashboard/frontend/index.html`  
+
+---
+
+## 🤝 Contributing  
+Pull requests welcome!
+
+---
+
+## 📄 License  
+MIT License  
