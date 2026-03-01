@@ -62,7 +62,7 @@ Video available in `https://app.animaker.com/animo/BXyqCOcS6TAPgiSu/`
 
 ---
 
-## 🛠 Setup Instructions
+##  Setup Instructions
 ### 1. Install Dependencies
 
 ### 2. Run Edge Inference
@@ -72,10 +72,10 @@ Open `dashboard/frontend/index.html`
 
 ---
 
-## 🤝 Contributing  
+##  Contributing  
 Pull requests welcome!
 
 ---
 
-## 📄 License  
+##  License  
 MIT License  
