@@ -14,14 +14,14 @@ CrowdShield is an AI-powered metro station management system designed to reduce 
 ---
 
 ##  Tech Stack
-### ⚙ Hardware
+###  Hardware
 - RFID Reader RC522
 - IR Sensors
 - Servo Motor for Gate
 - Camera Module
 - AMD Ryzen Embedded / Edge Device
 
-### 🖥 Software
+###  Software
 - Python (Edge Processing)
 - PyTorch / ROCm for Model Training
 - Node.js / Python Flask Backend
@@ -36,7 +36,7 @@ CrowdShield is an AI-powered metro station management system designed to reduce 
 ---
 
 ## Prototype Demo
-Video available in `/demo/prototype_video.mp4`
+Video available in `https://app.animaker.com/animo/BXyqCOcS6TAPgiSu/`
 
 ---
 
